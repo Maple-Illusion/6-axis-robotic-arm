@@ -1,1 +1,6 @@
-# 6-axis-robotic-arm-
+# 6-axis-robotic-arm
+
+## Inverse kinematics
+
+
+## Forward kinematics
